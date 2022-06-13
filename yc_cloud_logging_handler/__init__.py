@@ -1,0 +1,1 @@
+from .yc_cloud_logging_handler import YandexCloudLoggingHandler
